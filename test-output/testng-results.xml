@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-24T12:25:13 IST" name="Suite" finished-at="2025-07-24T12:25:19 IST" duration-ms="5195">
+    <groups>
+    </groups>
+    <test started-at="2025-07-24T12:25:13 IST" name="Test" finished-at="2025-07-24T12:25:19 IST" duration-ms="5195">
+      <class name="assign.qa.bookcart.tests.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:assign.qa.bookcart.tests.LoginPageTest@795509d9]" started-at="2025-07-24T12:25:13 IST" name="setup" finished-at="2025-07-24T12:25:18 IST" duration-ms="4065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:assign.qa.bookcart.tests.LoginPageTest@795509d9]" started-at="2025-07-24T12:25:18 IST" name="loginTest" finished-at="2025-07-24T12:25:18 IST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assign.qa.bookcart.tests.LoginPageTest@795509d9]" started-at="2025-07-24T12:25:18 IST" name="tearDown" finished-at="2025-07-24T12:25:19 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- assign.qa.bookcart.tests.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
