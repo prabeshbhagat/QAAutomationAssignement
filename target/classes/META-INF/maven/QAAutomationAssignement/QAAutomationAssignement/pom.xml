@@ -114,5 +114,10 @@
 			<artifactId>ApiAutomation</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>POMFinal</groupId>
+			<artifactId>POMFinal</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 </project>
